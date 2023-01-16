@@ -1,13 +1,11 @@
-# YBGITA_Conference
+# 22-2_YBIGTA_Conference
 
 실행 방법
 1. 프로젝트 다운로드(git clone 이용)
 + Mysql과 workbench 깔고, mysql 실행
-
 -> 터미널에서 
-   
+
    mysql.server start
-   
    mysql -u root -p 
    
    입력 후 비밀번호 입력해서 mysql 실행
