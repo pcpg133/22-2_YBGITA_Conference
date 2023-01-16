@@ -55,6 +55,7 @@ npx react-native run-ios
 
 
 ** npm install --save --legacy-peer-deps 후에 package.json 등에 변화가 생긴다면, vscode에서 탐색기 아래에 있는 소스 제어 탭에 가서 다 원래대로 돌려주면 된다. 라이브러리 버전이 자동으로 업데이트되어 package.json 등에 변화가 생긴 것이므로, 원래대로 돌려도 큰 문제 없다.
+
 ** react-native에서 watchman error가 뜰 경우
 watchman watch-del-all
 watchman shutdown-server 실행
