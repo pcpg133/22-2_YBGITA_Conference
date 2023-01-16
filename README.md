@@ -6,11 +6,11 @@
 
    -> 터미널에서 
 
-      mysql.server start
+   mysql.server start
       
-      mysql -u root -p 
+   mysql -u root -p 
    
-      입력 후 비밀번호 입력해서 mysql 실행
+   입력 후 비밀번호 입력해서 mysql 실행
 + workbench 켜서 Local instance 접속
 + SCHEMAS 탭 내 영역을 오른쪽 클릭하여 Create Schema...를 선택하고, Schema name을 lunch로 설정하여 schema 생성
 + lunch 스키마를 펼친 후 Tables을 오른쪽 클릭하여 create Table...을 선택해 Table 생성 창으로 넘어감
