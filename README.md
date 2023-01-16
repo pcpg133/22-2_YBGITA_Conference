@@ -20,15 +20,10 @@
 + server 폴더에 .env 파일 만들고, 아래 내용 복사 
 
       HOST_PORT=8080
-      
       DB_HOST=localhost
-      
       DB_USER=root
-      
       DB_DATABASE=lunch
-      
       DB_PASSWORD=
-      
       DB_PORT=
 
 --> 여기서 DB_PASSWORD는 자신의 Mysql 비밀번호로(ex. 123456), DB_PORT는 위에 workbench의 lunch 테이블이 있는 Local instance의 포트 번호(ex. 3306)로 설정해준다
