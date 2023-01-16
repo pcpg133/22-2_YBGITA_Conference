@@ -1,0 +1,122 @@
+{
+    "0": {
+        "image": "https://cdn.mindgil.com/news/photo/202103/70839_7148_1250.jpg",
+        "tag": ["한식", "고기구이"]
+    },
+    "1": {
+        "image": "https://dimg.donga.com/wps/NEWS/IMAGE/2021/12/11/110738658.2.jpg",
+        "tag": ["닭요리", "후라이드/양념치킨"]
+    },
+    "2": {
+        "image": "https://rimage.gnst.jp/livejapan.com/public/article/detail/a/00/00/a0000370/img/basic/a0000370_main.jpg?20201002142956&q=80&rw=750&rh=536",
+        "tag": ["일식", "초밥"]
+    },
+    "3": {
+        "image": "https://rimage.gnst.jp/livejapan.com/public/article/detail/a/00/03/a0003581/img/basic/a0003581_main.jpg?20191025114924",
+        "tag": ["중식", "중국집"]
+    },
+    "4": {
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5yZq2DlYVuNOhfJhPqVK9xH75V0_APulzCJASO5lMoiTY9IaGIJymNiUwIyOK21U_f8Y&usqp=CAU",
+        "tag": ["분식", "라면/김밥/어묵"]
+    },
+    "5": {
+        "image": "https://mblogthumb-phinf.pstatic.net/MjAxNzA0MDVfMTUw/MDAxNDkxMzU5MzI2NzQ4.y64X8gIxZERTrZuRjP7xe_eAEJUiLhRjYNu6ew_gZnUg.NPjxiotgYKseHU3n25O7Rczjd5S5x3HN_9a9Kn0UG7cg.JPEG.baqui_mag/002.jpg?type=w2",
+        "tag": ["패스트푸드", "햄버거"]
+    },
+    "6": {
+        "image": "https://img.siksinhot.com/article/1513327083728002.jpg",
+        "tag": ["별식/퓨전요리", "동남아음식"]
+    },
+    "7": {
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8CGsb27LSWZBsNaHl74z-l9UF5driIZWJhA&usqp=CAU",
+        "tag": ["한식", "국수/만두/칼국수"]
+    },
+    "8": {
+        "image": "http://res.heraldm.com/phpwas/restmb_idxmake.php?idx=507&simg=/content/image/2017/08/31/20170831000647_0.jpg",
+        "tag": ["한식", "냉면집"]
+    },
+    "9": {
+        "image": "https://wimg.mk.co.kr/meet/neds/2021/04/image_readtop_2021_313778_16172679314595675.jpg",
+        "tag": ["양식", "스테이크/폭립"]
+    },
+    "10": {
+        "image": "https://kr.savorjapan.com/gg/image/0004044105/0004044105E1_352x235d80.jpg",
+        "tag": ["일식", "돈가스"]
+    },
+    "11": {
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkIt6LTwg6ivecjHinQgRa-49cf_uSmpNk4ouDL6kP0dKYDLbs43JidbZUqAcnaM_CMtc&usqp=CAU",
+        "tag": ["분식", "떡볶이"]
+    },
+    "12": {
+        "image": "https://cdn.kormedi.com/wp-content/uploads/2021/12/ck_pc003073603_l-580x435.jpg",
+        "tag": ["패스트푸드", "피자"]
+    },
+    "13": {
+        "image": "https://shop-phinf.pstatic.net/20190207_74/100986059_1549535556978PdUHa_JPEG/%BB%F3%BC%BC%C6%E4%C0%CC%C1%F6%B0%ED%B1%E2%BB%E7%C1%F8.jpg?type=w860",
+        "tag": ["한식", "고기구이"]
+    },
+    "14": {
+        "image": "https://d2uja84sd90jmv.cloudfront.net/posts/CIh-eU0Qxg6mhl9G52rtJQ/m.jpg",
+        "tag": ["별식/퓨전요리", "동남아음식"]
+    },
+    "15": {
+        "image": "https://www.mansuk.kr/skin/img/sub/menu-detail-02.jpg",
+        "tag": ["닭요리", "후라이드/양념치킨"]
+    },
+    "16": {
+        "image": "https://cphoto.asiae.co.kr/listimglink/6/2022031613124280762_1647403962.jpg",
+        "tag": ["중식", "중국집"]
+    },
+    "17": {
+        "image": "https://post-phinf.pstatic.net/MjAxOTEwMDFfNjkg/MDAxNTY5OTE5NzUxNDc2.mnGT1DcIaEY9os4ftETl5Bc_SudAwsUq8O3KaqlpQtQg.qhcMdUjcKqBoTC6hR1j7OnsY4BIpK1aulSmv0mlwO14g.JPEG/분식.jpg?type=w1200",
+        "tag": ["분식", "라면/김밥/어묵"]
+    },
+    "18": {
+        "image": "https://w.namu.la/s/214bfd4232b5b258ffd688690a297dd63ee00170d514e1b2eeecfd14b78b2af762aaf9f316ecb7bcaa4bd940c7824a595752d143aba660182a3b8fb76f740fe67eea1db503bbbedc0c384046b50b28092d8e3f4c1647bff9919e899a25e48269613b84a2da16c6177484648ec027a824",
+        "tag": ["한식", "한식/백반/한정식"]
+    },
+    "19": {
+        "image": "https://dnvefa72aowie.cloudfront.net/business/bizPlatform/profile/20793695/1614826460450/9d9b8575c0ae5c608c5b50a07185950d5c6e9ac0b1cc96cb2f40f4bc2b9af0d3.jpeg?q=82&s=640x640&t=crop",
+        "tag": ["한식", "족발/보쌈"]
+    },
+    "20": {
+        "image": "https://cphoto.asiae.co.kr/listimglink/6/2019030815125681788_1552025576.jpg",
+        "tag": ["한식", "한식/백반/한정식"]
+    },
+    "21": {
+        "image": "https://blog.kakaocdn.net/dn/mMPaA/btqwAmFelUw/dlhhjHFt5t1FSizUjreDr0/img.jpg",
+        "tag": ["한식", "국밥/해장국"]
+    },
+    "22": {
+        "image": "https://mblogthumb-phinf.pstatic.net/MjAyMDEyMDNfNTEg/MDAxNjA2OTI5ODk5NjIy.bAwmWPU22SILqdrtN87D5an4_gygcxzTxgbq7mejoUwg.IsEdc43IT7cUWOTTnm88orCOQ2iEkdG9F29MTvgN2Lkg.JPEG.3t3rnal/KakaoTalk_20201123_012121582_13.jpg?type=w800",
+        "tag": ["일식", "돈부리/덮밥"]
+    },
+    "23": {
+        "image": "https://t1.daumcdn.net/cfile/tistory/99CA85345C0C9BCA03",
+        "tag": ["양식", "파스타/스파게티"]
+    },
+    "24": {
+        "image": "https://t1.daumcdn.net/cfile/tistory/990CF94B5E9EE1B60D",
+        "tag": ["일식", "돈부리/덮밥"]
+    },
+    "25": {
+        "image": "https://mblogthumb-phinf.pstatic.net/20150515_119/japansisa_1431668293415u8JCD_JPEG/4.jpg?type=w2",
+        "tag": ["일식", "우동/소바/오뎅"]
+    },
+    "26": {
+        "image": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Fcfile%2Ftistory%2F2304313956557EEA09",
+        "tag": ["일식", "돈가스"]
+    },
+    "27": {
+        "image": "https://alook.so/file_storages/blobs/proxy/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBMkIrQWc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--cf30907ca80b5e54c0d04633a6c7cf5322649060/패스트푸드.jpg",
+        "tag": ["패스트푸드", "햄버거"]
+    },
+    "28": {
+        "image": "https://www.menupan.com/restaurant/restimg/008/zzmenuimg/h4924684_z.jpg",
+        "tag": ["한식", "족발/보쌈"]
+    },
+    "29": {
+        "image": "https://tumblbug-pci.imgix.net/d5fa3d7a4fbd1f09ed409b5fb44f0ec1fc681828/69943c0165fb2b38452709539e5d0664b7bfbb83/4b2822693889be6a41137b7db717576fce921f59/6a5aa4e0-5690-48ff-b18e-bd0d9ef6ad50.jpg?ixlib=rb-1.1.0&w=1240&h=930&auto=format%2Ccompress&lossless=true&fit=crop&s=56b1b9e7bbeb6999296cb17ae5ffb64e",
+        "tag": ["일식", "라멘"]
+    }
+}
