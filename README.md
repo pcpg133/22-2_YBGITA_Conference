@@ -64,4 +64,5 @@ npx react-native run-ios
 ** react-native에서 watchman error가 뜰 경우
 
 watchman watch-del-all
+
 watchman shutdown-server 실행
