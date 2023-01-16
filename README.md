@@ -25,7 +25,6 @@
       DB_DATABASE=lunch
       DB_PASSWORD=
       DB_PORT=
-
 --> 여기서 DB_PASSWORD는 자신의 Mysql 비밀번호로(ex. 123456), DB_PORT는 위에 workbench의 lunch 테이블이 있는 Local instance의 포트 번호(ex. 3306)로 설정해준다
 
 + 앱을 끌 때 mysql.server stop을 통해 mysql도 꺼주자
