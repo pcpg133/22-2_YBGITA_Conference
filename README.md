@@ -31,31 +31,50 @@
 
 2. 터미널 1 => /server로 가서 
 npm install --save --legacy-peer-deps
+
 npm start
 
 3. 터미널 2 => /model로 가서
 pip install flask
+
 pip install pandas
+
 pip install tqdm
+
 pip install openpyxl
+
 pip install haversine
+
 pip install scikit-learn
+
 pip install selenium
+
 pip install opencv-python
+
 pip install matplotlib
+
 python app.py
 
 4. 터미널 3 => /PLZ로 가서
 npm install --save --legacy-peer-deps
+
 npm install @react-navigation/native --save --legacy-peer-deps
+
 npm install react-native-reanimated react-native-gesture-handler react-native-screens react-native-safe-area-context @react-native-community/masked-view --save --legacy-peer-deps
+
 cd ios
+
 pod install
+
 pod update
+
 cd ..
+
 npm start
 
+
 5. 터미널 4 => /lunch/PLZ로 가서
+
 npx react-native run-ios
 
 
